@@ -1,0 +1,9 @@
+Exception: STATUS_INTEGER_DIVIDE_BY_ZERO at eip=0040126F
+eax=00000005 ebx=0022CCAC ecx=00000000 edx=00000000 esi=6130D71E edi=611D3FB2
+ebp=0022CC88 esp=0022CC60 program=C:\Users\Lynx\Desktop\CurrentFolder\Homework\Assignment_1\Savitch_9thEd_Ch1_Q3\dist\Debug\Cygwin-Windows\savitch_9thed_ch1_q3.exe, pid 5828, thread main
+cs=001B ds=0023 es=0023 fs=003B gs=0000 ss=0023
+Stack trace:
+Frame     Function  Args
+0022CC88  0040126F (00000001, 0022CCAC, 20010100, 61008477)
+0022CD28  610084DC (00000000, 0022CD84, 61007520, 00000000)
+End of stack trace
