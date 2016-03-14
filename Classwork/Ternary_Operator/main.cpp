@@ -3,6 +3,7 @@
  * Author: Hilton A. Crossley Jr.
  * Created on March 14, 2016, 9:42 AM
  * Purpose: Mess around with the Ternary operand while making a truth table.
+ * Sidenote: There is no cat pun in this program. 
  */
 
 #include <iostream>
